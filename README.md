@@ -22,9 +22,18 @@ SQL Analysis
 The SQL queries provided in sales_analysis.sql perform the following analyses:
 
 Total Sales Revenue by Region and Product: Identify which regions and products contribute most to revenue.
+<img width="359" alt="image" src="https://github.com/user-attachments/assets/8562f608-1714-40cd-a840-61575218f80d">
+
 Percentage of Quota Achieved: Determine how well salespeople are meeting their targets.
+<img width="534" alt="image" src="https://github.com/user-attachments/assets/82642cd1-84fa-4529-b62c-1076d575a743">
+
 Sales Trends: Analyze sales trends over time to identify peak periods.
+
+<img width="427" alt="image" src="https://github.com/user-attachments/assets/8c6cb44b-c068-4b4a-8e76-88728725df04">
+
 Salesperson Performance Ranking: Rank salespeople by performance and identify top and bottom performers.
+
+<img width="602" alt="image" src="https://github.com/user-attachments/assets/63515b5d-63a8-4105-b116-3490b9e1da9e">
 
 Analyze and Interpret the Results
 Some key insights:
