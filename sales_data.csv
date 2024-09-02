@@ -1,0 +1,101 @@
+Salesperson_ID,Region,Product,Sales_Amount,Target_Amount,Sales_Date,Quota,Sales_Stage
+1017,Asia-Pacific,SharePoint,31933.71,48019.86,2023-01-01,Not Met,Lead
+1006,Asia-Pacific,Windows 10,41822.9,45248.46,2023-01-02,Met,Proposal
+1015,Asia-Pacific,Xbox,9486.4,29155.15,2023-01-03,Not Met,Qualified
+1049,Latin America,Azure,38866.94,12752.56,2023-01-04,Not Met,Closed
+1019,Latin America,GitHub,12209.49,16557.66,2023-01-05,Met,Closed
+1005,North America,Minecraft,25479.37,48419.94,2023-01-06,Met,Lead
+1004,Europe,OneDrive,24768.9,25857.92,2023-01-07,Met,Closed
+1043,Asia-Pacific,Exchange,6693.71,23434.87,2023-01-08,Not Met,Proposal
+1015,Latin America,OneDrive,42224.55,10699.0,2023-01-09,Met,Qualified
+1002,Asia-Pacific,SQL Server,27563.06,54436.94,2023-01-10,Not Met,Lead
+1032,Europe,Xbox,8473.05,37758.85,2023-01-11,Met,Lead
+1015,North America,Visual Studio,20811.44,35984.21,2023-01-12,Met,Lead
+1003,Europe,Power BI,18202.95,31359.99,2023-01-13,Met,Proposal
+1031,Europe,GitHub,18813.52,55156.86,2023-01-14,Not Met,Closed
+1034,North America,LinkedIn,24134.8,11099.45,2023-01-15,Met,Closed
+1031,Latin America,SQL Server,24625.43,49005.89,2023-01-16,Not Met,Qualified
+1048,North America,Surface Laptop,22334.33,36831.8,2023-01-17,Met,Proposal
+1030,Europe,Power BI,37905.41,11217.08,2023-01-18,Met,Proposal
+1034,Latin America,Xbox,22126.54,10374.55,2023-01-19,Not Met,Closed
+1005,North America,Exchange,31934.49,13331.53,2023-01-20,Not Met,Closed
+1003,Latin America,Surface Laptop,47241.54,10357.84,2023-01-21,Not Met,Qualified
+1037,Asia-Pacific,Dynamics 365,20120.53,45267.32,2023-01-22,Met,Lead
+1018,Asia-Pacific,Windows 11,24433.99,19047.75,2023-01-23,Not Met,Closed
+1008,Asia-Pacific,OneDrive,21937.52,33639.0,2023-01-24,Met,Qualified
+1027,Europe,GitHub,47508.79,38774.27,2023-01-25,Met,Qualified
+1040,Europe,Windows 10,41984.35,49163.71,2023-01-26,Not Met,Lead
+1039,Europe,Dynamics 365,18103.04,33499.3,2023-01-27,Not Met,Qualified
+1029,Asia-Pacific,Windows 11,39555.39,15429.36,2023-01-28,Not Met,Closed
+1029,Latin America,LinkedIn,30589.33,14308.64,2023-01-29,Not Met,Closed
+1038,Latin America,Power BI,30138.77,38228.67,2023-01-30,Met,Lead
+1015,Europe,Visual Studio,49084.76,43349.18,2023-01-31,Not Met,Proposal
+1002,Latin America,Microsoft 365,6953.32,43008.59,2023-02-01,Met,Closed
+1038,North America,SharePoint,19527.87,23852.14,2023-02-02,Not Met,Lead
+1037,Asia-Pacific,Microsoft 365,36600.17,34461.23,2023-02-03,Met,Lead
+1022,Asia-Pacific,LinkedIn,6836.69,33855.18,2023-02-04,Met,Proposal
+1039,Europe,Outlook,29166.45,20310.71,2023-02-05,Met,Lead
+1029,North America,Teams,15865.35,29178.24,2023-02-06,Met,Closed
+1028,Asia-Pacific,Azure,30364.44,47965.37,2023-02-07,Met,Closed
+1014,Asia-Pacific,Power BI,14282.3,29650.71,2023-02-08,Not Met,Qualified
+1010,North America,GitHub,29527.47,45372.76,2023-02-09,Not Met,Proposal
+1036,Asia-Pacific,Azure,32568.51,24073.26,2023-02-10,Not Met,Proposal
+1033,Latin America,Edge,14963.92,16181.36,2023-02-11,Met,Lead
+1016,Latin America,Azure,10995.65,50653.3,2023-02-12,Met,Closed
+1009,Asia-Pacific,Teams,46809.23,55374.71,2023-02-13,Met,Lead
+1003,Latin America,Edge,39897.27,56949.14,2023-02-14,Met,Lead
+1040,Latin America,SharePoint,30803.11,14677.04,2023-02-15,Met,Closed
+1005,Asia-Pacific,OneDrive,49286.01,49072.88,2023-02-16,Met,Lead
+1041,Europe,Visual Studio,46951.41,26502.29,2023-02-17,Not Met,Closed
+1021,Asia-Pacific,Windows 11,49823.49,45632.48,2023-02-18,Not Met,Qualified
+1043,Asia-Pacific,SQL Server,46419.53,37843.87,2023-02-19,Not Met,Qualified
+1042,Asia-Pacific,Windows 11,11744.79,44921.88,2023-02-20,Not Met,Qualified
+1036,North America,LinkedIn,49334.08,21616.66,2023-02-21,Not Met,Closed
+1030,Europe,Windows 11,19165.78,31471.22,2023-02-22,Met,Proposal
+1049,Latin America,Windows 11,16402.68,36013.21,2023-02-23,Met,Lead
+1025,Asia-Pacific,Edge,24788.15,24396.14,2023-02-24,Not Met,Closed
+1044,Latin America,Surface Pro,40346.33,58951.39,2023-02-25,Met,Lead
+1004,Europe,GitHub,13117.4,23592.83,2023-02-26,Not Met,Proposal
+1015,Asia-Pacific,OneDrive,36154.12,24882.48,2023-02-27,Not Met,Lead
+1037,Asia-Pacific,Surface Pro,35547.45,24833.43,2023-02-28,Not Met,Closed
+1010,North America,SQL Server,15443.26,54124.82,2023-03-01,Not Met,Qualified
+1016,Europe,Visual Studio,36701.91,40593.65,2023-03-02,Not Met,Closed
+1009,Latin America,Xbox,44638.36,45892.72,2023-03-03,Not Met,Closed
+1035,Europe,Xbox,15879.02,37526.97,2023-03-04,Met,Qualified
+1034,Europe,Microsoft 365,11121.09,38292.82,2023-03-05,Not Met,Qualified
+1021,Latin America,Edge,5620.66,43226.54,2023-03-06,Met,Closed
+1037,Latin America,SharePoint,22872.23,37366.08,2023-03-07,Met,Proposal
+1049,Europe,OneDrive,12046.27,57502.6,2023-03-08,Not Met,Qualified
+1042,North America,SQL Server,11700.01,56453.19,2023-03-09,Not Met,Closed
+1001,Latin America,Teams,27560.58,53220.58,2023-03-10,Met,Closed
+1024,Latin America,Dynamics 365,14300.79,27779.36,2023-03-11,Not Met,Closed
+1005,North America,Teams,18001.24,52524.01,2023-03-12,Not Met,Closed
+1038,Latin America,GitHub,46478.52,46596.08,2023-03-13,Not Met,Proposal
+1020,Latin America,Power BI,48246.41,27795.24,2023-03-14,Not Met,Proposal
+1001,Latin America,SQL Server,23644.22,42084.52,2023-03-15,Not Met,Qualified
+1016,Europe,GitHub,10600.68,11935.57,2023-03-16,Met,Closed
+1003,Asia-Pacific,Azure,9629.47,43571.6,2023-03-17,Met,Closed
+1003,Europe,OneDrive,28407.62,37069.83,2023-03-18,Not Met,Proposal
+1005,Asia-Pacific,Minecraft,20970.67,15044.44,2023-03-19,Not Met,Qualified
+1042,Latin America,Teams,35300.59,14274.96,2023-03-20,Not Met,Closed
+1021,North America,Dynamics 365,12264.33,24944.15,2023-03-21,Not Met,Qualified
+1002,Asia-Pacific,GitHub,47304.9,55962.17,2023-03-22,Not Met,Lead
+1032,Latin America,Outlook,25553.91,20817.95,2023-03-23,Not Met,Proposal
+1029,Asia-Pacific,OneDrive,31819.92,53020.78,2023-03-24,Met,Qualified
+1003,Latin America,Exchange,26715.05,22988.62,2023-03-25,Met,Qualified
+1035,Latin America,Azure,44350.29,28605.79,2023-03-26,Not Met,Qualified
+1037,Latin America,Visual Studio,8207.11,49440.42,2023-03-27,Met,Qualified
+1043,Latin America,Edge,21930.36,16888.37,2023-03-28,Met,Lead
+1027,Europe,GitHub,24494.3,12072.7,2023-03-29,Not Met,Qualified
+1039,North America,Exchange,16288.06,52410.28,2023-03-30,Met,Qualified
+1041,Europe,Dynamics 365,34793.86,44491.75,2023-03-31,Met,Proposal
+1035,Latin America,SharePoint,5732.39,30843.8,2023-04-01,Not Met,Qualified
+1006,Latin America,Surface Laptop,36263.89,49365.79,2023-04-02,Met,Proposal
+1036,Asia-Pacific,Windows 11,29446.99,11432.8,2023-04-03,Not Met,Closed
+1015,Latin America,Teams,48023.7,25332.3,2023-04-04,Not Met,Qualified
+1012,Asia-Pacific,SharePoint,31521.22,46323.68,2023-04-05,Met,Closed
+1012,Europe,Surface Laptop,43469.89,58755.2,2023-04-06,Not Met,Closed
+1012,Asia-Pacific,Visual Studio,32792.92,39253.44,2023-04-07,Met,Qualified
+1031,Europe,Teams,37805.03,30897.79,2023-04-08,Not Met,Closed
+1029,North America,Microsoft 365,40301.49,48488.99,2023-04-09,Not Met,Proposal
+1017,North America,Visual Studio,37902.68,17356.85,2023-04-10,Not Met,Qualified
