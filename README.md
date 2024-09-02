@@ -12,7 +12,7 @@ Sales_Date: Date of the sale.
 Quota: Whether the salesperson met their quota ("Met" or "Not Met").
 Sales_Stage: The stage of the sales process (Lead, Qualified, Proposal, Closed).
 
-<p><b></b>SQL Analysis</p></b>
+<p><b>SQL Analysis</p></b>
 
 The SQL queries provided in sales_analysis.sql perform the following analyses:
 
