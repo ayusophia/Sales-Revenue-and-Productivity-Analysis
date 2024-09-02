@@ -1,12 +1,7 @@
 # Sales-Revenue-and-Productivity-Analysis
 This project analyzes sales revenue trends and productivity metrics using a generated dataset. The analysis identifies areas for improvement, growth opportunities, and insights into sales performance across different regions and products.
 
-Dataset
-Number of Rows: 100
-Columns: Salesperson ID, Region, Product, Sales Amount, Target Amount, Sales Date, Quota, Sales Stage
-Product: Randomly selected from a list of Microsoft products.
-
-The dataset contains the following columns:
+<p><b>The dataset contains the following columns:</b></p>
 
 Salesperson_ID: Unique identifier for each salesperson.
 Region: Geographic region where the sales were made.
@@ -17,28 +12,28 @@ Sales_Date: Date of the sale.
 Quota: Whether the salesperson met their quota ("Met" or "Not Met").
 Sales_Stage: The stage of the sales process (Lead, Qualified, Proposal, Closed).
 
-SQL Analysis
+<p><b></b>SQL Analysis</p></b>
 
 The SQL queries provided in sales_analysis.sql perform the following analyses:
 
-Total Sales Revenue by Region and Product: Identify which regions and products contribute most to revenue.
+<p>Total Sales Revenue by Region and Product: Identify which regions and products contribute most to revenue.</p>
 <img width="359" alt="image" src="https://github.com/user-attachments/assets/8562f608-1714-40cd-a840-61575218f80d">
 
-Percentage of Quota Achieved: Determine how well salespeople are meeting their targets.
+<p>Percentage of Quota Achieved: Determine how well salespeople are meeting their targets.</p>
 <img width="534" alt="image" src="https://github.com/user-attachments/assets/82642cd1-84fa-4529-b62c-1076d575a743">
 
-Sales Trends: Analyze sales trends over time to identify peak periods.
+<p>Sales Trends: Analyze sales trends over time to identify peak periods.</p>
 
 <img width="427" alt="image" src="https://github.com/user-attachments/assets/8c6cb44b-c068-4b4a-8e76-88728725df04">
 
-Salesperson Performance Ranking: Rank salespeople by performance and identify top and bottom performers.
+<p>Salesperson Performance Ranking: Rank salespeople by performance and identify top and bottom performers.</p>
 
 <img width="602" alt="image" src="https://github.com/user-attachments/assets/63515b5d-63a8-4105-b116-3490b9e1da9e">
 
-Analyze and Interpret the Results
-Some key insights:
+<p><b>Analyze and Interpret the Results</b></p>
+<p>Some key insights:</p>
 
-Revenue Distribution: Which regions and products are generating the most revenue?
+<b>Revenue Distribution: Which regions and products are generating the most revenue?</b>
 
 Top 5 Regions by Revenue:
 Asia-Pacific
@@ -67,6 +62,7 @@ SharePoint (North America): $99,591.63
 Azure (Latin America): $90,655.58
 SQL Server (Latin America): $89,564.64
 Outlook (North America): $88,078.41
+
 Insights:
 Regionally, Asia-Pacific leads with the highest revenue-generating product (OneDrive), followed by significant contributions from North America and Latin America. Europe also shows strong revenue, especially with products like Windows 10 and LinkedIn.
 
@@ -75,7 +71,7 @@ Product-wise, OneDrive in Asia-Pacific tops the list, showing that cloud service
 Conclusion:
 The Asia-Pacific and North America regions are leading in terms of revenue, with products like OneDrive, SharePoint, and Azure standing out as top performers. These insights can help guide strategic decisions regarding where to focus sales efforts and which products to prioritize in these regions.
 
-Quota Achievement: What percentage of salespeople are meeting their targets?
+<b>Quota Achievement: What percentage of salespeople are meeting their targets?</b>
 
 Quota Achievement Analysis:
 To determine the percentage of salespeople meeting or exceeding their sales targets, we can classify them based on their quota achievement percentages:
@@ -115,6 +111,7 @@ Key Insights:
 13 out of 41 salespeople (approximately 31.7%) are exceeding their sales targets.
 4 out of 41 salespeople (approximately 9.8%) are near their sales targets.
 The majority, 24 out of 41 salespeople (approximately 58.5%), are falling short of their sales targets, indicating that over half of the salesforce may need additional support or resources to achieve their goals.
+
 Conclusion:
 While a significant portion of the sales team (around 31.7%) is performing exceptionally well, the fact that over half of the team is not meeting their targets suggests a need for strategic intervention. This could involve targeted training, better resource allocation, or a reevaluation of sales targets to ensure they are realistic and achievable.
 
